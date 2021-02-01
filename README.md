@@ -1,4 +1,4 @@
-# Fundamental-Algorithm
+# Fundamental Algorithm
 
 ## Algorithm 기초 Swift
 Xcode의 Playground로 작성되었습니다. Clone하여 Xcode에서 코드를 각 단계별로 print 해 보면 이해하기 쉽습니다.
