@@ -2,7 +2,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
 
 ## Download Material
-[Xcode Playgound file](https://raw.githubusercontent.com/hyeonmin-yoo/Fundamental-Algorithm/blob/main/BubbleSort.zip)
+[Xcode Playgound file](https://github.com/downloads/hyeonmin-yoo/Fundamental-Algorithm/blob/main/BubbleSort.zip)
 
 ## 버블 정렬이란?
 서로 인접한 두 원소를 검사하여 정렬하는 Algorithm
